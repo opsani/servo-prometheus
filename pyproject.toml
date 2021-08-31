@@ -14,7 +14,7 @@ aioprometheus = "^20.0.1"
 servox = "^0.10.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2.4"
+pytest = "^6.2.5"
 pytest-asyncio = "^0.15.1"
 asynctest = {git = "https://github.com/Martiusweb/asynctest.git", rev = "py3.8"}
 
