@@ -10,7 +10,7 @@ repository = "https://github.com/opsani/servo-metrics"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-aioprometheus = "^20.0.1"
+aioprometheus = "^21.9.0"
 servox = "^0.10.2"
 
 [tool.poetry.dev-dependencies]
